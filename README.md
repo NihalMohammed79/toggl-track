@@ -1,5 +1,5 @@
 ## Toggl Track Apple Engineer Test Project
-This repository contains the code for the Apple Engineer Home Assignment for Toggl Track. The project is an iOS or macOS application that allows users to track and manage their time.
+This repository contains the code for the Apple Engineer Home Assignment for Toggl Track. The project is an iOS application that allows users to track and manage their time.
 
 ## Instructions
 You are required to implement an iOS or macOS application. 
